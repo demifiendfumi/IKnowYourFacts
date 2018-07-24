@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">I Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Months that begin on a Sunday will always have a "Friday the 13th."</string>
+    <string name="fragment2">Coca-Cola would be green if colouring weren\'t added to it.</string>
+    <string name="fragment3">The placement of a donkey\'s eyes in its\' heads enables it to see all four feet at all times!</string>
+    <string name="btnColor">Change Colour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
